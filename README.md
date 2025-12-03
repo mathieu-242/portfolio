@@ -14,4 +14,4 @@ aucun
 - [Email](mahtieu.tchofod@gmailo.com)
  
 ## 🎨 Portfolio :
-[portfilio](https://mathieu-cdayfddue7dag7b7.polandcentral-01.azurewebsites.net/)
+[portfolio](https://mathieu-cdayfddue7dag7b7.polandcentral-01.azurewebsites.net/)
